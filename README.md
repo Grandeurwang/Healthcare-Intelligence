@@ -1,5 +1,5 @@
-# Project 2: Shiny App Development Version 2.0
-## Health Intelligence: Interactive Hospital Recommendation System
+# Project 2: Health Intelligence: Interactive Hospital Recommendation System 
+## Shiny App Development Version 2.0
 
 ![image](figs/screen_ui.png)
 
