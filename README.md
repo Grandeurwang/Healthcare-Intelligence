@@ -5,8 +5,7 @@
 
 Term: Spring 2019
 
-+ Team #Group 12
-
++ Team **Group 12**
 + **Shiny App link**: [https://grandeur-wang.shinyapps.io/healthcare_intelligence/]( https://grandeur-wang.shinyapps.io/healthcare_intelligence/)
 
 + **Team members**:
