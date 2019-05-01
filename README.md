@@ -4,7 +4,7 @@
 ![image](figs/screen_ui.png)
 
 
-**Shiny App link**: [https://grandeur-wang.shinyapps.io/healthcare_intelligence/]( https://grandeur-wang.shinyapps.io/healthcare_intelligence/)
++ **Shiny App link**: [https://grandeur-wang.shinyapps.io/healthcare_intelligence/]( https://grandeur-wang.shinyapps.io/healthcare_intelligence/)
 ### Team members (Group 12):
 + team member  Wang, Guanren (gw2380@columbia.edu)
 + team member  Zhong, Ming (mz2692@columbia.edu)
