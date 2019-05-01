@@ -1,10 +1,13 @@
 # Project 2: Health Intelligence: Interactive Hospital Recommendation System 
-## Shiny App Development Version 2.0
 
 ![image](figs/screen_ui.png)
 
 
 + **Shiny App link**: [https://grandeur-wang.shinyapps.io/healthcare_intelligence/]( https://grandeur-wang.shinyapps.io/healthcare_intelligence/)
+
+### Background
+Nowadays, it could be wearisome for patients to decide which hospital to go when they are ill. From patients' perspective, they may have many concerns of hospitals such as safety, patient experience and timeliness of care. To help patients find the hospitals that satisfy their needs, we used the data collected by US government as our database and designed an online app based on Shiny app. 
+
 ### Team members (Group 12):
 + team member  Wang, Guanren (gw2380@columbia.edu)
 + team member  Zhong, Ming (mz2692@columbia.edu)
