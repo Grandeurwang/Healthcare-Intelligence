@@ -9,7 +9,7 @@
 Nowadays, it could be wearisome for patients to decide which hospital to go when they are ill. From patients' perspective, they may have many concerns of hospitals such as safety, patient experience and timeliness of care. To help patients find the hospitals that satisfy their needs, we used the [data collected by US government](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3) as fundament of our database and designed an online app based on Shiny app. 
 
 ### Team members (Group 12):
-+ team member  Wang, Guanren (gw2380@columbia.edu)
++ team leader  Wang, Guanren (gw2380@columbia.edu)
 + team member  Zhong, Ming (mz2692@columbia.edu)
 + team member  Cai, Zongbo (zc2455@columbia.edu)
 + team member  Li, Jingyue (jl5283@columbia.edu)
