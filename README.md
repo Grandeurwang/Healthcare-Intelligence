@@ -1,4 +1,4 @@
-# Project 2: Healthcare Intelligence: Interactive Hospital Recommendation System 
+# Project 2: Healthcare Intelligence: Interactive Hospital Recommendation App 
 
 ![image](figs/screen_ui.png)
 
